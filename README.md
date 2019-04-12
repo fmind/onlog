@@ -1,5 +1,7 @@
 # onlog
 
+Currently replace consecutive numbers with a single value to remove variance in log files.
+
 ## Installation
 
 ```sh
